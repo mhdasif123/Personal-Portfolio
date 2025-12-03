@@ -40,16 +40,6 @@ Navigate to [http://localhost:3000](http://localhost:3000)
 8. **`components/Skills.tsx`** - Your technical skills
 9. **`components/About.tsx`** - Your bio
 
-**See `DEPLOYMENT_CHECKLIST.md` for complete checklist!**
-
-## 🌐 Deployment
-
-### Vercel (Recommended - Easiest)
-1. Push to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
-4. Click Deploy
-5. Done! ✅
 
 ### Build for Production
 ```bash
@@ -98,20 +88,4 @@ All components are:
 - ✅ SEO optimized
 - ✅ Performance optimized
 
-## 🔄 Updating After Deployment
 
-1. Edit files locally
-2. `git add .`
-3. `git commit -m "Update content"`
-4. `git push`
-5. Auto-deploys in 1-2 minutes!
-
-## 📞 Support
-
-For issues or questions, check:
-- Next.js docs: [nextjs.org/docs](https://nextjs.org/docs)
-- Tailwind CSS: [tailwindcss.com/docs](https://tailwindcss.com/docs)
-
----
-
-**Ready to deploy?** Check `DEPLOYMENT_CHECKLIST.md` first!
