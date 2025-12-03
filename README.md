@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Website
 
-## Getting Started
+A modern, professional portfolio built with Next.js 15, TypeScript, and Tailwind CSS.
 
-First, run the development server:
+## ✨ Features
 
+- 🎨 Professional emerald/slate color scheme
+- 📱 Fully responsive design
+- ⚡ Fast performance with Next.js App Router
+- 📄 Resume download functionality
+- 🔝 Scroll to top button
+- 🎯 Complete sections: Hero, About, Experience, Skills, Certifications, Projects, Education, Contact
+
+## 🚀 Quick Start
+
+1. **Install dependencies:**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Run development server:**
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. **Open browser:**
+Navigate to [http://localhost:3000](http://localhost:3000)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📝 Customization Guide
 
-## Learn More
+### Essential Files to Update:
 
-To learn more about Next.js, take a look at the following resources:
+1. **`public/profile.jpg`** - Your profile photo
+2. **`public/resume.pdf`** - Your resume PDF
+3. **`components/Contact.tsx`** - Email, phone, LinkedIn, GitHub
+4. **`components/Experience.tsx`** - Work history and achievements
+5. **`components/Projects.tsx`** - Your projects with live/GitHub links
+6. **`components/Education.tsx`** - Degree and university info
+7. **`components/Certifications.tsx`** - Your certifications
+8. **`components/Skills.tsx`** - Your technical skills
+9. **`components/About.tsx`** - Your bio
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**See `DEPLOYMENT_CHECKLIST.md` for complete checklist!**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Deployment
 
-## Deploy on Vercel
+### Vercel (Recommended - Easiest)
+1. Push to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. Import your repository
+4. Click Deploy
+5. Done! ✅
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Build for Production
+```bash
+npm run build
+npm start
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js 15 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** SVG (inline)
+- **Deployment:** Vercel/Netlify ready
+
+## 📂 Project Structure
+
+```
+portfolio/
+├── app/
+│   ├── layout.tsx          # Root layout
+│   ├── page.tsx            # Home page
+│   └── globals.css         # Global styles
+├── components/
+│   ├── Hero.tsx            # Hero section with photo
+│   ├── About.tsx           # About section
+│   ├── Experience.tsx      # Work experience
+│   ├── Skills.tsx          # Technical skills
+│   ├── Certifications.tsx  # Certifications
+│   ├── Projects.tsx        # Project showcase
+│   ├── Education.tsx       # Education background
+│   ├── Contact.tsx         # Contact form & info
+│   └── ScrollToTop.tsx     # Scroll to top button
+├── public/
+│   ├── profile.jpg         # Your photo (REPLACE)
+│   └── resume.pdf          # Your resume (REPLACE)
+└── README.md
+```
+
+## ✅ Production Ready
+
+All components are:
+- ✅ Error-free
+- ✅ TypeScript validated
+- ✅ Mobile responsive
+- ✅ SEO optimized
+- ✅ Performance optimized
+
+## 🔄 Updating After Deployment
+
+1. Edit files locally
+2. `git add .`
+3. `git commit -m "Update content"`
+4. `git push`
+5. Auto-deploys in 1-2 minutes!
+
+## 📞 Support
+
+For issues or questions, check:
+- Next.js docs: [nextjs.org/docs](https://nextjs.org/docs)
+- Tailwind CSS: [tailwindcss.com/docs](https://tailwindcss.com/docs)
+
+---
+
+**Ready to deploy?** Check `DEPLOYMENT_CHECKLIST.md` first!
