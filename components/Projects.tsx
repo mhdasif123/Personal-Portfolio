@@ -34,15 +34,23 @@ const projects = [
   {
     title: 'Overt Nexus Company Website',
     description: 'Developed the Official Overt Nexus Website with My Team, Delivering a Modern, Responsive Platform to Present their Services.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project5.png', // Add your screenshot here
     liveLink: 'https://www.overtnexus.com/',
     githubLink: 'https://www.overtnexus.com/'
   },
   {
+    title: 'MSTM Arts and Science College',
+    description: 'Developed a Modern, Responsive Website for MSTM Arts and Science College to Showcase their Academic Services.',
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
+    image: '/project15.png', // Add your screenshot here
+    liveLink: 'https://www.mstm.in/',
+    githubLink: 'https://www.mstm.in/'
+  },
+  {
     title: 'Oak Architects & Interior',
     description: 'Built a Modern, Responsive Website for Oak Architects & Interior that Showcases their Architectural and Interior-Design Services with a Clean, Professional Layout.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project6.png', // Add your screenshot here
     liveLink: 'https://www.oakarchitects.in/',
     githubLink: 'https://www.oakarchitects.in/'
@@ -50,7 +58,7 @@ const projects = [
   {
     title: 'R+A Architects',
     description: 'Built a Modern, Responsive Website for R+A Architects that Showcases their Architectural and Interior-Design Services with a Clean, Professional Layout.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project7.png', // Add your screenshot here
     liveLink: 'https://www.rplusaarchitects.com/',
     githubLink: 'https://www.rplusaarchitects.com/'
@@ -58,7 +66,7 @@ const projects = [
   {
     title: 'Leaf and Stem',
     description: 'A Responsive Website for Leaf and Stem Trading LLC, Highlighting their Fresh, Vacuum-Packed Produce and Wholesale Services in Dubai.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project8.png', // Add your screenshot here
     liveLink: 'https://www.leafandstem.ae/',
     githubLink: 'https://www.leafandstem.ae/'
@@ -66,7 +74,7 @@ const projects = [
   {
     title: 'Global Eye Hospitals',
     description: 'Built and Maintained Global Eye Hospital’s Website, Ensuring a Responsive and User-Friendly Online Presence.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project9.png', // Add your screenshot here
     liveLink: 'https://www.globaleyehospitals.com/',
     githubLink: 'https://www.globaleyehospitals.com/'
@@ -74,7 +82,7 @@ const projects = [
   {
     title: 'Easy Lift Transport & Heavy Equipment Rental',
     description: 'Developed and Maintained the Website for Easy Lift, Showcasing their Heavy Equipment Rental Services across the UAE with a Focus on Usability and Service Clarity.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project10.png', // Add your screenshot here
     liveLink: 'https://www.easylift.ae/',
     githubLink: 'https://www.easylift.ae/'
@@ -82,7 +90,7 @@ const projects = [
   {
     title: 'Gleam and Glisten',
     description: 'Built and Optimized Gleam and Glisten Cleaning Services Website, Creating a Professional and User-Friendly Platform for their Residential and Commercial Cleaning Services in Abu Dhabi.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project11.png', // Add your screenshot here
     liveLink: 'https://www.ggcleaning.ae/',
     githubLink: 'https://www.ggcleaning.ae/'
@@ -90,7 +98,7 @@ const projects = [
   {
     title: 'Scrub & Spray',
     description: 'Designed and Managed the Website for Scrub & Spray Cleaning Services, Highlighting their Cleaning and Pest Control Solutions for Residential, Commercial, and Industrial Clients in Abu Dhabi.',
-    tech: ['Odoo', 'XML', 'Javascript', 'HTML', 'CSS'],
+    tech: ['Odoo','Python', 'XML', 'Javascript', 'HTML', 'CSS'],
     image: '/project12.png', // Add your screenshot here
     liveLink: 'https://www.scrubandspray.ae/',
     githubLink: 'https://www.scrubandspray.ae/'
