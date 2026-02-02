@@ -1,5 +1,13 @@
 const projects = [
   {
+    title: 'Synops Labs Company Website',
+    description: 'Developed the Official Synops Labs Website, a Modern and Professional Platform Showcasing their Software Development and Technology Services.',
+    tech: ['Next.js', 'Tailwind CSS', 'TypeScript', 'React'],
+    image: '/project16.png',
+    liveLink: 'https://www.synopslabs.com/',
+    githubLink: 'https://www.synopslabs.com/'
+  },
+  {
     title: 'Personal Portfolio',
     description: 'Built a Personal Portfolio Website using Next.js, TailwindCSS, and TypeScript. It showcases my Projects, Skills, and Contact Information.',
     tech: ['Next.js', 'TypeScript', 'Tailwind CSS'],
