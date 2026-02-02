@@ -8,6 +8,14 @@ const projects = [
     githubLink: 'https://www.synopslabs.com/'
   },
   {
+    title: 'Bridgewater Management Consultancies',
+    description: 'Developed the Official BWMC Website, a Modern and Professional Platform Showcasing Their Expert Business Setup, Financial Management, and Consultancy Services in the UAE.',
+    tech: ['Next.js', 'Tailwind CSS', 'TypeScript', 'React'],
+    image: '/project17.png',
+    liveLink: 'https://bwmc.ae/',
+    githubLink: 'https://bwmc.ae/'
+  },
+  {
     title: 'Personal Portfolio',
     description: 'Built a Personal Portfolio Website using Next.js, TailwindCSS, and TypeScript. It showcases my Projects, Skills, and Contact Information.',
     tech: ['Next.js', 'TypeScript', 'Tailwind CSS'],
