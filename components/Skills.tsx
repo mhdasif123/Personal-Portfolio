@@ -16,12 +16,16 @@ const skillCategories = [
     skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'ORM', 'Database Design']
   },
   {
+    title: 'AI & Automation',
+    skills: ['AI Chatbots (n8n)', 'Workflow Automation', 'API-based AI Integrations']
+  },
+  {
     title: 'ERP - Odoo',
     skills: ['Odoo Development', 'Python Programming', 'Odoo ORM', 'PostgreSQL', 'Odoo Module Development', 'Odoo XML Views', 'QWeb Templates', 'Odoo API Integration', 'JavaScript', 'Odoo Debugging', 'Git Version Control', 'Linux Server Management']
   },
   {
     title: 'ERP - Zoho',
-    skills: ['Deluge scripting', 'Zoho CRM customization', 'Zoho Creator development', 'Zoho API integration', 'workflows & automation', 'custom functions', 'webhooks', 'Zoho Analytics', 'data migration', 'Zoho Connections', 'blueprints', 'documentation', 'debugging']
+    skills: ['Deluge scripting', 'Zoho CRM customization', 'Zoho Creator development', 'Zoho API integration', 'workflows & automation', 'custom functions', 'webhooks', 'Zoho Analytics', 'data migration', 'Zoho Connections', 'blueprints', 'documentation']
   },
   {
     title: 'Cloud & DevOps',
@@ -29,11 +33,11 @@ const skillCategories = [
   },
   {
     title: 'Tools & Utilities',
-    skills: ['Git', 'GitHub', 'Postman', 'Visual Studio Code', 'PyCharm, Eclipse', 'Docker', 'MySQL Workbench', 'pgAdmin (PostgreSQL)', 'MongoDB Compass', 'Figma', 'Canva']
+    skills: ['Git', 'GitHub', 'Postman', 'Visual Studio Code', 'PyCharm, Eclipse', 'Docker', 'MySQL Workbench', 'pgAdmin (PostgreSQL)', 'Figma', 'Canva']
   },
   {
     title: 'Support',
-    skills: ['API Monitoring', 'Debugging', 'Logs Analysis', 'L1/L2 Support', 'Troubleshooting', 'Issue Resolution', 'Production Support', 'Maintenance', 'Ticket Management', 'Client/User Assistance', 'Training', 'Performance Monitoring', 'Alerts Handling', 'Problem Analysis', 'Root Cause Identification']
+    skills: ['API Monitoring', 'Debugging', 'Logs Analysis', 'L1/L2 Support', 'Troubleshooting', 'Issue Resolution', 'Production Support', 'Maintenance', 'Ticket Management', 'Client/User Assistance', 'Training', 'Performance Monitoring', 'Problem Analysis', 'Root Cause Identification']
   },
   {
     title: 'Current Exploring',

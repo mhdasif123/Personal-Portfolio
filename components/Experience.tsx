@@ -2,7 +2,7 @@ const experiences = [
   {
     role: 'Software Engineer',
     company: 'Synops Labs | Dubai, UAE',
-    period: 'Dec 2024 - Present',
+    period: 'Nov 2024 - Present',
     description: 'Developing custom web applications and automation solutions for clients in Dubai, UAE. Working with modern technologies and building scalable systems.',
     achievements: [
       'Developed custom web applications using React.js, Next.js, and backend technologies such as Django and Node.js',
