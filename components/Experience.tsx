@@ -1,8 +1,24 @@
 const experiences = [
   {
     role: 'Software Engineer',
+    company: 'Synops Labs | Dubai, UAE',
+    period: 'Dec 2024 - Present',
+    description: 'Developing custom web applications and automation solutions for clients in Dubai, UAE. Working with modern technologies and building scalable systems.',
+    achievements: [
+      'Developed custom web applications using React.js, Next.js, and backend technologies such as Django and Node.js',
+      'Built and maintained backend APIs and integrated frontend applications with server-side systems',
+      'Assisted mobile application developers by supporting backend services and internal software development',
+      'Designed and implemented automation workflows using n8n for client and internal use cases',
+      'Built automation tools to reduce manual work and improve operational efficiency by 40%',
+      'Worked on system integrations, testing, and ongoing improvements for deployed applications',
+      'Collaborated with cross-functional teams to deliver high-quality software solutions on time',
+      'Developed custom workflow automation solutions to streamline business processes'
+    ]
+  },
+  {
+    role: 'Software Engineer',
     company: 'Overt Nexus PVT LTD | India',
-    period: 'Jun 2024 - Present',
+    period: 'Jun 2024 - Nov 2024',
     description: 'Implementing Zoho Applications, Customizing Odoo Modules, and Developing Custom Software Solutions for Clients. Providing End-to-End Support, Data Migration, and Building Responsive Web Applications.',
     achievements: [
       'Customized and Implemented Zoho Applications Based on Client-Specific Business Requirements.',
