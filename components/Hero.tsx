@@ -62,7 +62,7 @@ export default function Hero() {
         <p className="text-lg text-slate-400 mb-8">2+ Years Experience</p>
         <div className="flex gap-4 justify-center flex-wrap">
           <a 
-            href="/Mohammed Asif - Resume.pdf" 
+            href="/Mohammed Asif - Resume.pdf?v=2024" 
             download
             className="px-8 py-3 bg-emerald-600 hover:bg-emerald-700 rounded-lg transition shadow-lg shadow-emerald-600/30 flex items-center gap-2"
           >
